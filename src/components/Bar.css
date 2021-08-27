@@ -1,0 +1,114 @@
+.Bar{
+    width: 80px;
+    height: 100vh;
+    background-color: aqua;
+  margin-left: 20px;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  display: block;
+  top: 0;
+  left: 0;
+margin-top: -20px;
+position: sticky;
+}
+.Bar :is(button){
+  display: block;
+}
+.home{
+  width: 35px;
+  height: 30px;
+  margin-left: 22px;
+  font-size: 28px;
+  margin-top: 20px;
+  border: none;
+  background-color: aqua;
+}
+
+.hehe{
+  margin-top: 70px;
+  margin-left: 20px;
+  font-size: 28px;
+  background-color: aqua;
+  border: none;
+}
+.hehe:hover{
+  background-color: aqua;
+  color: red;
+}
+.plus{
+  margin-left: 20px;
+  font-size: 28px;
+  border: none;
+  background-color: aqua;
+  margin-top: 5px;
+  font-weight: 900;
+}
+.plus:hover{
+  background-color: aqua;
+  color: red;
+}
+.user{
+  margin-top: 5px;
+  margin-left: 20px;
+  background-color: aqua;
+  font-size: 28px;
+  border: none;
+  font-weight: 900;
+}
+.user:hover{
+  background-color: aqua;
+  color: red;
+}
+.cofr{
+  margin-top: 5px;
+  margin-left: 20px;
+  font-size: 28px;
+  border: none;
+  background-color: aqua;
+  font-weight: 900;
+}
+.cofr:hover{
+  background-color: aqua;
+  color: red;
+}
+.text{
+  margin-top: 5px;
+  margin-left: 20px;
+  font-size: 28px;
+  border: none;
+  background-color: aqua;
+  font-weight: 900;
+}
+.usish{
+  margin-top: 5px;
+  margin-left: 20px;
+  font-size: 28px;
+  border: none;
+  background-color: aqua;
+  font-weight: 900;
+}
+.usish:hover{
+  color: red;
+}
+.nas{
+  margin-top: 5px;
+  margin-left: 20px;
+  border: none;
+  background-color: aqua;
+  font-size: 28px;
+  font-weight: 900;
+}
+.nas:hover{
+  color: red;
+}
+.odam{
+  width: 50px;
+  height: 40px;
+  top: 0;
+  
+  border: none;
+  margin-left: 10px;
+  margin-top: 270px;
+  background-color: aqua;
+}
